@@ -13,6 +13,6 @@ Feel free to ask if you'd like further details or have any other questions! 🌟
 
  Clone the repository
     ```bash
-    git clone 
+    git clone https://github.com/tamil19-01/SMS_spam_analysis.git
     cd sms-spam-filtering
     ```
